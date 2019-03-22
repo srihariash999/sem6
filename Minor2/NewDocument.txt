@@ -1,0 +1,8 @@
+Set theory
+Chain rule (ques + theory)
+Joint probablity (ques+ theory)
+Total probability theorem( ques+ theory)
+Bayes theorem( ques + theory)
+Random variable( def only)
+Cumulative distribution function ( def only)
+Probability distribution function ( def onl
